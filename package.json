@@ -11,14 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olsonpm/sqlite-to-rest.git"
+    "url": "git+https://github.com/ixtlan-team/sqlite-to-rest.git"
   },
   "author": "phil olson",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/olsonpm/sqlite-to-rest/issues"
-  },
-  "homepage": "https://github.com/olsonpm/sqlite-to-rest#readme",
+  "homepage": "https://github.com/ixtlan-team/sqlite-to-rest#readme",
   "dependencies": {
     "JSONStream": "^1.1.1",
     "bluebird": "^3.4.0",
@@ -30,7 +27,7 @@
     "koa-decoded-querystring": "0.1.1",
     "koa-router": "^7.0.1",
     "lodash": "^4.12.0",
-    "madonna-fp": "github:olsonpm/madonna-fp",
+    "madonna-fp": "github:olsonpm/madonna-fp#dev",
     "madonna-function": "github:olsonpm/madonna-function",
     "ncp": "^2.0.0",
     "portfinder": "^1.0.3",
